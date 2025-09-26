@@ -1,7 +1,8 @@
-FAST FASHION
-# BRAND LOGO, POSTER DESGIN AND AD CAMPAIGN VIDEO
+# FAST FASHION
 
-# Brand: Caterhood
+## BRAND LOGO, POSTER DESGIN AND AD CAMPAIGN VIDEO
+
+ ### Brand: Caterhood
 
 Caterhood is a sustainable hoodie brand built on the philosophy of “Comfort with a Purpose.” The name reflects transformation—just like a caterpillar evolves into a butterfly, Caterhood seeks to bring positive change to the fashion industry. Every hoodie is made from eco-friendly materials, turning waste into wearable fashion. The brand’s identity is deeply rooted in sustainability, environmental awareness, and modern style.
 
